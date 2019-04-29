@@ -1,0 +1,19 @@
+{
+  "name": "node_data_capture",
+  "version": "1.0.0",
+  "description": "利用node实现简单爬虫",
+  "main": "app.js",
+  "dependencies": {
+    "jsdom": "^14.0.0",
+    "koa": "^2.7.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "segment": "^0.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jas",
+  "license": "ISC"
+}
