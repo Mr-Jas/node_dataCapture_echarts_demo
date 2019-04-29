@@ -1,0 +1,2 @@
+# node_dataCapture_echarts_demo
+简单利用node爬取起点小说网小说详情页数据，做了一个利用segment中文分词模块+echart.js处理并展示数据结果的demo。
